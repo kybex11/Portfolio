@@ -1,0 +1,20 @@
+.about {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 7px 4px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}

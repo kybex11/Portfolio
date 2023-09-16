@@ -1,0 +1,22 @@
+.header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 7px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #666;
+  font-style: italic;
+}
